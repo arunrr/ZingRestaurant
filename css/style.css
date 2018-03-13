@@ -8,10 +8,13 @@ video{
     z-index: -1;
 }
 div{
+    
+    opacity: 0.5;
+}
+img{
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
-    height: auto;
-    opacity: 0.5;
+    height: 100%;
 }
