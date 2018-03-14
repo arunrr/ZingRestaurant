@@ -8,7 +8,7 @@ video{
     z-index: -100;
 }
 
-div{
+.shade{
     position: fixed;
     top: 0;
     left: 0;
@@ -26,7 +26,33 @@ div{
         rgba(120, 255, 214,0.35)
     );
 
+
+}
+
+.content{
+    
+    width: 500px;
+    color: white;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -250px;
+    text-align: center;
+    background-color: rgba(000,000,000,0.3);
+    padding: 30px;
+    
 }
 h1{
-    color: white;
+    font-size: 4em;
+}
+p{
+  font-size: 1.7em;  
+}
+a{
+    text-decoration: none;
+    border: solid 2px #0288D1;
+    color: #8BC34A;
+    padding: 10px;
+    font-size: 1.5em;
 }
