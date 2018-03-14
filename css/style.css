@@ -39,20 +39,27 @@ video{
     margin-top: -200px;
     margin-left: -250px;
     text-align: center;
-    background-color: rgba(000,000,000,0.3);
+    background-color: rgba(000,000,000,0.4);
     padding: 30px;
+
+    
     
 }
 h1{
     font-size: 4em;
+    font-family: 'Lobster', cursive;
+    
 }
 p{
-  font-size: 1.7em;  
+  font-size: 1.8em;  
+    padding-bottom: 10px;
+    font-family: 'Pacifico', cursive;
 }
 a{
     text-decoration: none;
-    border: solid 2px #0288D1;
+    border: solid 2px;
     color: #8BC34A;
     padding: 10px;
     font-size: 1.5em;
+    font-family: 'Rammetto One', cursive;
 }
