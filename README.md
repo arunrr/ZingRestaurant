@@ -2,4 +2,4 @@
 
 This is a sample webpage for a coming soon fictitious restaurant.
 
-DEMO : https://nikorockz.github.io/ZingRestaurant
+DEMO : https://arunrr.github.io/ZingRestaurant
